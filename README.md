@@ -1,2 +1,0 @@
-# gqlApollo
-Created with CodeSandbox
